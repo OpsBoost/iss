@@ -9,8 +9,7 @@ There is no need to ever touch the physical device again once it is enrolled
 ### Display management with ease
 Control the content stream of your infoscreens anytime, from everywhere  
 The intuitive and simple user interface works on mobile and desktop and lets
-you setup new displays or screens with ease. Make up content on the fly,  
-create schedules
+you setup new displays or screens with ease. Make up content on the fly, create schedules
 ### Keep the overview
 Auto-discovery and location awareness lets you keep the overview of your deployed infoscreens
 ### Support
@@ -18,15 +17,19 @@ The iss info screen system is actively developed and maintained
 Need help planning a big installation?  
 Need a feature not yet implemented?  
 Talk to us
-### Many view sources
+### A variety of view sources for every use case
 - Images
 - Slides
 - News
 - Social Media
 - Weather
 - Calendar
+- Notifications
+- Sensor data
+- Custom Applications
 - Video streams
 - Web Pages
+all freely combinable
 ### Energy Management
 Save power.  
 Want your device to sleep at night or only wake up once in a while?  
