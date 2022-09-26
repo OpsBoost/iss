@@ -1,4 +1,4 @@
-# iss
+# iss - info screen system
 Create your own infoscreens and manage display devices and content with ease
 
 ## Features
@@ -9,17 +9,28 @@ There is no need to ever touch the physical device again once it is enrolled
 ### Display management with ease
 Control the content stream of your infoscreens anytime, from everywhere  
 The intuitive and simple user interface works on mobile and desktop and lets
-you setup new displays or screens with ease.
+you setup new displays or screens with ease. Make up content on the fly,  
+create schedules
 ### Keep the overview
 Auto-discovery and location awareness lets you keep the overview of your deployed infoscreens
+### Support
+The iss info screen system is actively developed and maintained  
+Need help planning a big installation?  
+Need a feature not yet implemented?  
+Talk to us
 ### Many view sources
 - Images
 - Slides
 - News
 - Social Media
 - Weather
+- Calendar
 - Video streams
 - Web Pages
+### Energy Management
+Save power.  
+Want your device to sleep at night or only wake up once in a while?  
+Create custom wake cycles
 ## Glossary
 ### display
 A display is the content or stream to be displayed on a screen  
